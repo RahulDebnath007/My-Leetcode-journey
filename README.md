@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0015-3sum) |
+| [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
