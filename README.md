@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
