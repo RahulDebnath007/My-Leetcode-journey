@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
