@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
