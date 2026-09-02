@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0064-minimum-path-sum) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
