@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
