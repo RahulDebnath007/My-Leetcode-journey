@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/RahulDebnath007/My-Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
